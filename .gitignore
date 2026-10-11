@@ -1,0 +1,15 @@
+# Flutter & Dart
+**/build/
+**/.dart_tool/
+**/.flutter-plugins-dependencies
+**/.pub-cache/
+**/.pub/
+
+# IDE & Editor
+.idea/
+*.iml
+.vscode/
+
+# OS generated
+.DS_Store
+Thumbs.db
